@@ -4,10 +4,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Description
 
-Developed a sleek and intuitive watchlist app using React, providing users with a seamless experience 
-for tracking and managing their favorite movies or TV shows effortlessly. I used external APIs 
-to fetch and display detailed information about movies or TV series. In addition, I implemented state 
-management efficiently to ensure real-time updates and prevent data loss after page reload.
+`Developed a sleek and intuitive watchlist app using React, providing users with a 
+seamless experience for tracking and managing their favorite movies or TV shows. 
+I used external APIs to fetch and display detailed information about movies or TV series. 
+In addition, I implemented state management efficiently to ensure real-time updates and 
+prevent data loss after page reload.`
 
 ## Available Scripts
 
